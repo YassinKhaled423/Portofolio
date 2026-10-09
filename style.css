@@ -1,0 +1,33 @@
+.navbar ul li a:hover{
+    color: blue;
+}
+
+div .n img{
+    margin-left: 70px;
+    margin-bottom: 30px;
+}
+body.dark_mode {
+    background-color: black;
+    color: white;
+}
+body.dark_mode .navbar {
+    background-color:black !important;
+}
+
+body.dark_mode .card {
+    background-color:rgba(0, 0, 255, 0.373);
+    color: white;
+}
+body.dark_mode .btn {
+    background-color:black;
+    color: white;
+}
+body.dark_mode .card_body {
+    background-color:rgba(0, 0, 255, 0.373);
+}
+body.dark_mode .navbar .nav-link{
+    color: azure;
+}
+body.dark_mode p{
+    color: azure;
+}

@@ -1,0 +1,39 @@
+.navbar ul li a:hover{
+    color: blue;
+}
+
+body.dark_mode {
+    background-color: black;
+    color: white;
+}
+body.dark_mode .navbar {
+    background-color:black !important;
+}
+
+body.dark_mode .card {
+    background-color:rgba(0, 0, 255, 0.373);
+    color: white;
+}
+body.dark_mode .btn {
+    background-color:black;
+    color: white;
+}
+body.dark_mode .card_body {
+    background-color:rgba(0, 0, 255, 0.373);
+}
+body.dark_mode .navbar .nav-link{
+    color: azure;
+}
+body.dark_mode p{
+    color: azure;
+}
+
+body.dark_mode .m{
+    color: aliceblue;
+}
+body.dark_mode p{
+    color: aliceblue;
+}
+.yassin{
+    background: repeating-linear-gradient(135deg, rgba(37,99,235,.12), rgba(37,99,235,.12) 10px, rgba(37,99,235,.04) 10px, rgba(37,99,235,.04) 20px);
+}
